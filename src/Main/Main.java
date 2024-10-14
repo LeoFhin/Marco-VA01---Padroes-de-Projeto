@@ -1,3 +1,7 @@
+// ALuno: Leonardo Santos de Lima
+// Curso: Sistemas Para Internet
+// Turma: 3B
+
 package Main;
 
 import Modelo.Livro;
